@@ -1,15 +1,24 @@
-#Título
-##Holaaa
+# Mi título
+Esta pagina es una prueba.
+This page is a test.
+Ich spreche ein bischen deutsch:)
 
-Esta es una página **prueba**
-Puedo hacer listas
-1.así
-2. hola de nuevo
-3. jaja
-y:
-*así igual
-*hola de nuevo
-*jsjsj
-###subtítulo 2
-Ahora una imagen:
+  - Here are som bullets 
+  - I can use them
+  - This is fun
+
+# Heres another!
+
+  - It has 
+  - many options
+  - wow
+ 
+> wow esto se ve 
+>super profesional
+>wowowowo
+>jajajaj
+
+
+
+### Yes
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
