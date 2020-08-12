@@ -4,7 +4,7 @@ This page is a test.
 Ich spreche ein bischen deutsch:)
 This is interesting. 
 
-  - Here are som bullets 
+  - Here are some bullets 
   - I can use them
   - This is fun
 
