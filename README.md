@@ -1,7 +1,8 @@
-# Mi título
+# HELLO
 Esta pagina es una prueba.
 This page is a test.
 Ich spreche ein bischen deutsch:)
+This is interesting. 
 
   - Here are som bullets 
   - I can use them
@@ -17,6 +18,17 @@ Ich spreche ein bischen deutsch:)
 >super profesional
 >wowowowo
 >jajajaj
+>This is used to quote
+
+##You can also add code:
+
+``
+if (isAwesome){
+  return true
+}
+```
+
+
 
 
 
