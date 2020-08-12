@@ -20,9 +20,9 @@ This is interesting.
 >jajajaj
 >This is used to quote
 
-##You can also add code:
+## You can also add code:
 
-``
+```
 if (isAwesome){
   return true
 }
